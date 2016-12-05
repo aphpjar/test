@@ -6,4 +6,4 @@
  * Time: 19:35
  */
 
-echo 'Staging text from eclipse';
+echo 'Staging text from eclipse 2';
